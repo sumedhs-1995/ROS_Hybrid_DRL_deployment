@@ -1,0 +1,8 @@
+prefix=/home/hunter-se/hybrid_DRL_ws/install
+
+Name: hybrid-drl
+Description: Description of hybrid-drl
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,2 @@
+hybrid-drl
+-DCATKIN_DEVEL_PREFIX=/home/hunter-se/hybrid_DRL_ws/devel -DCMAKE_INSTALL_PREFIX=/home/hunter-se/hybrid_DRL_ws/install -G Unix Makefiles
